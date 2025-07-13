@@ -35,7 +35,7 @@ Restrukturierung der Datenarchitektur zur Senkung der Ladezeit von 3 Stunden auf
 
 ---
 
-## 🛠 Verwendete Technologien
+## Verwendete Technologien
 
 - **Programmiersprachen:** Python, SQL, VBA, C/C++  
 - **Tools & Plattformen:** Power BI, Power Query, Excel, Airflow (in Einarbeitung), dbt (erste Kenntnisse), Azure  
